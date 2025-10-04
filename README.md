@@ -8,4 +8,3 @@ Designing unique CLI utilities, SQL web apps, ETL workflows, and Azure based pro
 🎧 Beats & Bytes 💾
 
 🛸 Space Enthusiast 🔭
-# laveltonrcsw
